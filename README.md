@@ -1,7 +1,7 @@
 ## hi
 
 
-### Compressed Project Directory
+## Compressed Project Directory
 Personal |
 Hackathon |
 Semester Capstone
