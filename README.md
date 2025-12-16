@@ -2,6 +2,6 @@
 
 
 ### Compressed Project Directory
-Personal
-Hackathon
+Personal |
+Hackathon |
 Semester Capstone
