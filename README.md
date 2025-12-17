@@ -10,4 +10,4 @@
 **Personal:**     |     
 
 ## Reach out!
-[hskeney@gmail.com](hskeney@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hanako-keney/)
+discord: @ev3rshade | [hskeney@gmail.com](hskeney@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hanako-keney/)
