@@ -1,7 +1,6 @@
 # learning code. unlearning how i was taught to learn
 
 
----
 ### compressed project directory
 **Hobby:** [my website](https://www.ev3rshade.com/)
                           
