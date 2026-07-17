@@ -4,7 +4,7 @@
 ### compressed project directory
 **Hobby:** [my website](https://www.ev3rshade.com/)
                           
-**semester capstones:** [cs180](https://github.com/ev3rshade/CS180-TeamPjkt); cs240 (wip); [cs250](https://github.com/ev3rshade/collegeNotes_submodule/tree/main/sem3/cs250); [cs251] (not started); [CS390](https://github.com/ev3rshade/clueless-outfitpicker)
+**semester capstones:** [cs180](https://github.com/ev3rshade/CS180-TeamPjkt); cs240 (wip); [cs250](https://github.com/ev3rshade/collegeNotes_submodule/tree/main/sem3/cs250); [cs251] (not started); [cs390](https://github.com/ev3rshade/clueless-outfitpicker)
 
 
 ---
