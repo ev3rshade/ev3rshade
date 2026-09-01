@@ -9,4 +9,4 @@
 
 ---
 ### reach out --> i'd love to talk to you
-discord: @ev3rshade | [hskeney@gmail.com](hskeney@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hanako-keney/)
+@ev3rshade | [hskeney@gmail.com](hskeney@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hanako-keney/)
